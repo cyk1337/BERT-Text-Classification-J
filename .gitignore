@@ -1,4 +1,4 @@
 *.pb
 .idea/
-bert_vocab.txt
-vocab.txt
+#bert_vocab.txt
+#vocab.txt
