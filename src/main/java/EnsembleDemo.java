@@ -35,7 +35,7 @@ public class EnsembleDemo {
     }
 
     public Bert _load_Bert() {
-        String bert_model_path = "pb_model/bert_L8_FC3_Seq128.pb";
+        String bert_model_path = "pb_model/bert_L4_FC3_Seq128.pb";
         Bert bert = new Bert(bert_model_path);
         return bert;
     }
